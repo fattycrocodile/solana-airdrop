@@ -1,5 +1,5 @@
 [programs.localnet]
-solana_airdrop = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+solana_airdrop = "GzTDjL8BmZj8YqE81vErYE818giFDpfiJck5Z7aBKS5j"
 
 [registry]
 url = "https://anchor.projectserum.com"
